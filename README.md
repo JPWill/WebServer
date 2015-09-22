@@ -1,3 +1,2 @@
 # WebServer
-First shot at a webserver
-Editing the readme.
+First shot at a webserver and tinkering with Go/Git.
